@@ -1,0 +1,6 @@
+git rebase合并多次提交:
+  - 命令:
+    - git rebase -i
+    - 修改第二条起，pick改成s
+  - 参考:
+    - https://blog.csdn.net/qq_33588730/article/details/110230039

@@ -1,0 +1,5 @@
+git rest 取消提交记录:
+  - 命令: 
+    - git reset --soft HEAD^
+  - 参考
+    - https://blog.csdn.net/c46550/article/details/116574128
